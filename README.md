@@ -1,5 +1,33 @@
 # ReactJS Frontend Developer Assignments - Complete Implementation
 
+## 🚀 How to Clone
+
+To clone this repository, run the following command in your terminal:
+
+```bash
+git clone https://github.com/sasankkona/user-profile-basic.git
+```
+
+## ⚙️ How to Use
+
+1. Install dependencies:
+
+```bash
+npm install
+```
+
+2. Start the development server:
+
+```bash
+npm start
+```
+
+3. To create a production build:
+
+```bash
+npm run build
+```
+
 ## ✅ Project Completion Status
 
 Both ReactJS assignments have been successfully implemented and tested, meeting all specified requirements.
